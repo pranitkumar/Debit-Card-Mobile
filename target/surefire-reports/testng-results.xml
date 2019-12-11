@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Automation Suite" duration-ms="33599" started-at="2018-12-27T16:31:22Z" finished-at="2018-12-27T16:31:56Z">
+    <groups>
+    </groups>
+    <test name="Smoke test" duration-ms="33599" started-at="2018-12-27T16:31:22Z" finished-at="2018-12-27T16:31:56Z">
+      <class name="AndroidApp.App">
+        <test-method status="PASS" signature="mani()[pri:0, instance:AndroidApp.App@531be3c5]" name="mani" duration-ms="33568" started-at="2018-12-27T22:01:22Z" finished-at="2018-12-27T22:01:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mani -->
+      </class> <!-- AndroidApp.App -->
+      <class name="AndroidApp.Browser">
+        <test-method status="PASS" signature="browse()[pri:0, instance:AndroidApp.Browser@3551a94]" name="browse" is-config="true" duration-ms="59020" started-at="2018-12-27T22:00:23Z" finished-at="2018-12-27T22:01:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browse -->
+      </class> <!-- AndroidApp.Browser -->
+    </test> <!-- Smoke test -->
+  </suite> <!-- Automation Suite -->
+</testng-results>
