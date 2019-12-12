@@ -11,6 +11,8 @@ public class Test {
 		System.out.println("it should be in releaseBranch");
 		
 		System.out.println("trying in again in release branch");
+		
+		System.out.println("new commit at 10.2");
 	}
 	
 }
