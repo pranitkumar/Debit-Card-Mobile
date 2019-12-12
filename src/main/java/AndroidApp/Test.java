@@ -8,7 +8,9 @@ public class Test {
 		
 		
 		System.out.println("12 dec adding the new code");
+		System.out.println("it should be in releaseBranch");
 		
+		System.out.println("trying in again in release branch");
 	}
 	
 }
